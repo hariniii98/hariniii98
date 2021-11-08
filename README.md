@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harini
 - 👀 I’m interested in Full-Stack Web Development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Vue JS
 - 📫 How to reach me garapatiharini@gmail.com
 
 <!---
